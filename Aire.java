@@ -245,7 +245,7 @@ public class Aire {
     {
         return "" + id + "," + nombre + "," + key + "," + latitud + "," + longitud + "," + comuna + "," + red + "," + region + "," +
                 regionIndex + "," + calificacion + "," + empresa + "," + realtimeCode + "," + realtimeName + "," + realtimeDateTime + "," + color + "," +
-                status + "," + statuscode + "," + datetime + "," + parameter + "," + movil + "," + value + "," + unit + "," + icap + "," + icapText + "\n";
+                status + "," + statuscode + "," + datetime + "," + parameter + "," + movil + "," + value + "," + unit + "," + icap + "," + icapText + "";
     }
 
 }//Aire
