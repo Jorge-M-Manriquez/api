@@ -74,6 +74,8 @@ public class JsonUrlReader2 {
         a.setUnit("UNIT");
         a.setIcap("ICAP");
         a.setIcapText("ICAPTEXT");
+	    
+	aAire.add(a);    
 
         int i = 1;
         while (it.hasNext())
